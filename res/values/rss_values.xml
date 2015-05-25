@@ -10,7 +10,7 @@
         <item>http://buzzer.translink.ca/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>Translink (Buzzer Blog)</item>
+        <item>TransLink (Buzzer Blog)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>http://buzzer.translink.ca/</item>

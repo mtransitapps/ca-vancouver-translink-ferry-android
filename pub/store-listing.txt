@@ -1,7 +1,7 @@
-Title: Translink SeaBus Ferry - MonT…
+Title: TransLink SeaBus Ferry - MonT…
 ----------
 Short description:
-Vancouver Translink SeaBus ferry for MonTransit BETA.
+Vancouver TransLink SeaBus ferry for MonTransit BETA.
 Schedule…
 ----------
 What's new in this version?:
@@ -12,13 +12,13 @@ Tweets from @TransLink.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Vancouver Translink SeaBus ferry information to MonTransit BETA.
+This app adds Vancouver TransLink SeaBus ferry information to MonTransit BETA.
 
 This app provides the ferry schedule and news from www.translink.ca, YouTube and @TransLink on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-Translink SeaBus ferry serves Vancouver in British Columbia, Canada.
+TransLink SeaBus ferry serves Vancouver in British Columbia, Canada.
 
 Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
 
@@ -26,13 +26,13 @@ This application only has a temporary icon and no screen: download the MonTransi
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by Translink.
+The information comes from the GTFS file provided by TransLink.
 http://www.translink.ca/en/Schedules-and-Maps/Developer-Resources.aspx
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-vancouver-translink-ferry-android
 
-This app is not related with Translink (South Coast British Columbia Transportation Authority).
+This app is not related with TransLink (South Coast British Columbia Transportation Authority).
 
 Permissions:
 - Other: required to read news from www.translink.ca, YouTube and Twitter
