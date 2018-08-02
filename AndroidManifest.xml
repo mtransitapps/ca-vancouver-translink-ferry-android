@@ -124,5 +124,6 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/youtube_target_for_poi_authority" />
         </provider>
+        -->
     </application>
 </manifest>
