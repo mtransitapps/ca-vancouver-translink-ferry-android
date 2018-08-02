@@ -4,7 +4,7 @@
 
 ## Download on Google Play
 
-<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_vancouver_translink_ferry"><img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png"/></a>
+<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_vancouver_translink_ferry2"><img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png"/></a>
 
 ## Screenshots
 

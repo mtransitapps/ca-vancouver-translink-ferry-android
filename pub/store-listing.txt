@@ -1,7 +1,7 @@
-Title: Vancouver TransLink SeaBus - …
+Title: Vancouver Transit Ferry - MonTransit
 ----------
 Short description:
-Vancouver TransLink SeaBus ferry for MonTransit.
+Vancouver ferries for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
@@ -10,7 +10,7 @@ News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
 ----------
 Full description:
-This app adds Vancouver TransLink SeaBus ferry information to MonTransit.
+This app adds Vancouver ferries information to MonTransit.
 
 This app provides the ferry schedule and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
@@ -45,4 +45,4 @@ Email: mtransit.apps+GooglePlay@gmail.com
 ----------
 Phone: 
 ----------
-Privacy Policy:
+Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy
