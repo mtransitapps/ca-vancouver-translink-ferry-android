@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <string name="module_migration_from_pkg">org.mtransit.android.ca_vancouver_translink_ferry</string>
+    <string name="module_migration_to_pkg">org.mtransit.android.ca_vancouver_translink_ferry2</string>
+</resources>
