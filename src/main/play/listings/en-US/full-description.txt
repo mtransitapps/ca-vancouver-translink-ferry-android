@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-vancouver-translink-ferry-android
 This app is not related with TransLink (South Coast British Columbia Transportation Authority).
 
 Permissions:
-- Other: required to read news from www.translink.ca, YouTube and Twitter
+- Other: required to read news from www.translink.ca, YouTube and Twitter.
