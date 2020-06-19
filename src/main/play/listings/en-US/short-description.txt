@@ -1,2 +1,2 @@
-Vancouver ferries for MonTransit.
+Vancouver TransLink SeaBus ferries for MonTransit.
 Schedule. Alerts. News.

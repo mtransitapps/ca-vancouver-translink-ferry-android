@@ -1,8 +1,8 @@
-This app adds Vancouver ferries information to MonTransit.
+This app adds Vancouver TransLink SeaBus ferries information to MonTransit.
 
 This app provides the ferry schedule and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
-Vancouver ferries serve Vancouver and the North Shore in British Columbia, Canada.
+TransLink SeaBus ferries serve Vancouver and the North Shore in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display ferry information (schedule...).
 
